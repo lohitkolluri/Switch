@@ -5,7 +5,9 @@
 Safe Starting And Shutting Down Of RaspberryPi Using A PushButton
 1.Download Requirements
 ```
-
+sudo apt-get install git
+git clone https://github.com/lohitkolluri/Switch.git
+```
 2. Run the installer.
 ```
 sudo chmod +x /home/${USER}/Switch/installer.sh  
