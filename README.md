@@ -10,7 +10,7 @@ git clone https://github.com/lohitkolluri/Switch.git
 ```
 2. Run the installer.
 ```
-sudo chmod +x /home/${USER}/Switch/installer.sh  
+sudo chmod +x /home/${USER}/Switch/Switch/installer.sh  
 sudo /home/${USER}/Switch/installer.sh  
 ```
 2. Wire The RaspberryPi As Shown In the Diagram.  
